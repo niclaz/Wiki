@@ -1,10 +1,15 @@
 # Workshops and Events
 
 MADE hosts many types of events \- both public and private.
+We open our doors to visits every Tuesday evening. 
 
 ### Sign up for a Workshop
 
-To sign up for a workshop, contact the event organizer(s) and let them know you are interested. You can see when new events are happening by viewing our [Google calendar](https://calendar.google.com/calendar/embed?src=6l9ppc6fipscpnlmpin810ktko%40group.calendar.google.com&ctz=Europe/Madrid), following us on Instagram [@made\_maker\_bcn](https://www.instagram.com/made_maker_bcn) or join our public [Telegram Group](https://t.me/+ZfAwT8CPnr8wMmE0)
+To sign up for a workshop, contact the event organizer(s) and let them know you are interested. You can see when new events are happening by viewing our [calendar](#our-calendar) below, following us on Instagram [@made\_maker\_bcn](https://www.instagram.com/made_maker_bcn) or join our public [Telegram Group](https://t.me/+ZfAwT8CPnr8wMmE0)
+
+### Our calendar
+[Link to the calendar](https://calendar.google.com/calendar/embed?src=6l9ppc6fipscpnlmpin810ktko%40group.calendar.google.com&ctz=Europe/Madrid)
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FMadrid&showPrint=0&showTz=0&hl=es&src=6l9ppc6fipscpnlmpin810ktko%40group.calendar.google.com&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Running a Workshop at ReMADE
 

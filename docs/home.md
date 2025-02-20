@@ -44,7 +44,7 @@ In 2017, due to a sudden increase in rent from a greedy landlord, Made started t
 We eventually settled on a much larger space in Sants, and committed to grow the organization into the big and beautiful makerspace we always knew that we could be.
 
 This new venue, with its 600m2 of floor space, allowed the community to expand to a peak of around 45 members, many of which with permanent spaces.
-We managed to keep a diverse calendar of events running regularly almost every day of the week, for some years in a row.
+We managed to keep a diverse [calendar of events](./workshops-and-events.md#our-calendar) running regularly almost every day of the week, for some years in a row.
 
 During this period, besides the regular flow of artists, hackers and tinkerers, we also incubated a number of tiny companies that found working in our kind of creative environment ideal, as well as various members who developed their own small scale independent gigs with the help of the knowledge and equipment found in the space.
 

@@ -101,12 +101,12 @@ By signing the Membership Form you agree to:
 
 # Member Meetings
 
-**What:** A monthly meeting where the members of MADE get together and discuss the space.
+**What:** A monthly meeting where the members of reMADE get together and discuss the space, projects and upcoming.
 
-**Where:** eMade common area
+**Where:** reMADE common area
 
-**When:** Check the Google Calendar \- Please be punctual\!
+**When:** Check [our calendar](./workshops-and-events.md#our-calendar) \- Please be punctual\!
 
-**Who:** All current members of MADE.
+**Who:** All current members of reMADE.
 
 **Why:** Members can propose new ideas, discuss the challenges facing the organization, and vote on how we should proceed. Members post the topics that they want to be addressed during the next meeting on our by being added to the top of the next Agenda.
