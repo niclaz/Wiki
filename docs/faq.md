@@ -28,8 +28,7 @@ Anyone is welcome to join\! You don't need to have any experience in a particula
 
 ### What tools do members have access to?
 
-Please chech the [Tools and Equipment](tools-and-equipment.md) page
-
+Please check the [Tools and Equipment](tools-and-equipment/index.md) page
 
 # New Member FAQs
 
