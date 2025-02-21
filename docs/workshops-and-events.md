@@ -17,7 +17,7 @@ Our public [Google calendar](https://calendar.google.com/calendar/embed?src=6l9p
 
 To add the calendar to your mobile device or computer copy the following link as a *subscription*:
 
-```https://calendar.google.com/calendar/ical/6l9ppc6fipscpnlmpin810ktko%40group.calendar.google.com/public/basic.ics```
+```https://www.google.com/calendar/ical/6l9ppc6fipscpnlmpin810ktko%40group.calendar.google.com/public/basic.ics```
 
 ### Running a Workshop at ReMADE
 
