@@ -24,9 +24,13 @@ Every person pays a general membership of 50€ per month, every month, in full.
 
 All paying members have the option to also rent out private spaces:
 
-* 100€ for a private desk  
-* 35-50€ per square metre (m2) for private work space  
-* 40-60€ per cubic metre (m3) for storage space
+* €50 for desk in the upstairs room/electronics room (price will increase if we put aircon there)
+* €35/m2 for private workspace, min 6m2
+
+Storage prices (half a mecalux shelf):
+* Workbench height €50
+* Underdesk / first shelf €40
+* Top shelf €30
 
 The payment methods reMADE currently accept: IBAN Wire Transfer
 
