@@ -1,5 +1,17 @@
 # Woodworking
 
+- Saws
+- [Bandsaw](#bandsaw)
+- Drills
+- Circular saw
+- Table saw
+- Wood lathe
+- Drill press
+
+## Documented here
+
+{nav}
+
 ## Bandsaw
 
 ### Basic User Safety Information
@@ -14,3 +26,5 @@ The saw blade must be 3345mm long.
  
 ### Full PDF Instruction Manual
 See the document [holzkraftbandsaw_Manual.pdf](../manuals/holzkraftbandsaw_Manual.pdf) for the full instruction Manual in PDF form.
+
+ 
