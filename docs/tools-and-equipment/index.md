@@ -1,18 +1,6 @@
 # Tools and Equipment
 
-reMADE has a sizable collection of hand tools and power tools, as well as some larger equipment. Below is a (not comprehensive) list of the tools available in our space:
-
-* Band saw, circular saw, jig saws, keyhole saw, hand saws (wood and metal), rasps, files, chisels  
-* Belt sanders, disk sander, oscillating spindle sander, hand orbital sanders, rotary grinding wheel  
-* Power drills, cordless drills, Dremel drill, angle grinder, router, assorted bits and rotary tools  
-* Soldering irons, heat guns, multi-meters, oscilloscopes, function generators, bench power supplies, micro controllers (Arduino, LittleBits, and more), and lots of electronic components  
-* Wrenches, pliers, screw drivers, scissors, glass cutters, box cutters, tin snips, shears, ratchet, staple gun  
-* **3D printers:**  
-    * Ender 3 
-    * Pruse i3  
-* Laser cutter: SIN SL-530 (50x30cm, 60W)
-* WiFi, printer, and scanner
-
+reMADE has a sizable collection of hand tools and power tools, as well as some larger equipment. Below is a general usage instructions and a (not comprehensive) list of the tools available in our space
 
 ## Using the Equipment
 
@@ -22,4 +10,20 @@ reMADE has a sizable collection of hand tools and power tools, as well as some l
 * If you break or wear down something, you must buy the equivalent replacement. Save the receipts; in some cases MADE can cover the cost.
 * Loud machinery and noises must end by 22:00 every day (sound curfew)
 * Workbenches should be completely clean when you leave - be considerate for the next user.
-Please put tools back where you found them
+* Please put tools back where you found them
+
+## The tools
+
+* Band saw, circular saw, jig saws, keyhole saw, hand saws (wood and metal), rasps, files, chisels  
+* Belt sanders, disk sander, oscillating spindle sander, hand orbital sanders, rotary grinding wheel  
+* Power drills, cordless drills, Dremel drill, angle grinder, router, assorted bits and rotary tools  
+* Soldering irons, heat guns, multi-meters, oscilloscopes, function generators, bench power supplies, micro controllers (Arduino, LittleBits, and more), and lots of electronic components  
+* Wrenches, pliers, screw drivers, scissors, glass cutters, box cutters, tin snips, shears, ratchet, staple gun  
+* 3D printers
+* Laser cutter
+* WiFi, printer, and scanner
+
+**Documented in this wiki:**
+
+{nav}
+
