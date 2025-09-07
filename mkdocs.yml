@@ -17,7 +17,6 @@ markdown_extensions:
     toc_depth: '1-6'
 extra_css:
   - css/made.css
-# nav:
-#   - About Made:
-#     - 'about-made.md'
-#     - 'membership.md'
+plugins:
+  - awesome-pages # Required for pagenav-generator
+  - pagenav-generator
